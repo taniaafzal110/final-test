@@ -1,0 +1,51 @@
+body, body * {
+    font-family: 'Montserrat', sans-serif;
+    color: #494949;
+}
+
+body {
+    background-color: #40a63d1a;
+}
+
+/* Write all your CSS here! */
+img {
+	height: 50px;
+	width: 50px;
+}
+.nav-item {
+	font-size: 12px;
+	font-weight: bold;
+	color:  #9aa2a7;
+}
+.navbar {
+	padding: 5px;
+
+}
+.justify-content-end {
+	background-color: #494949;
+	padding: 14px;
+	color:  #9aa2a7;
+	
+}
+.images {
+	display: flex;
+	justify-content: flex-end;
+}
+.flower {
+	margin-top: 10px;
+	margin-left: 10px;
+}
+.lotus {
+	height: 300px;
+	width: 500px;
+}
+
+.caed {
+	display: flex;
+	text-align: center;
+	justify-content: flex-end;
+}
+#card2 {
+	
+	float: left;
+}
